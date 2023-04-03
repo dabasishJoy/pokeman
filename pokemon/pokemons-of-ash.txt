@@ -23,3 +23,11 @@ Ash's Pokemons
 21: Kingler
 22: Muk
 23: Pignite
+8: Byleef
+9: Buizel
+10: Rotom
+11: Infernape
+12: Mr.Mime
+13: Kingler
+14: Muk
+15: Pignite
