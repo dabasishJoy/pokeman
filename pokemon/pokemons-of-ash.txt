@@ -31,3 +31,4 @@ Ash's Pokemons
 13: Kingler
 14: Muk
 15: Pignite
+16: Agnite
