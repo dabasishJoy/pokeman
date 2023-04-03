@@ -32,4 +32,5 @@ Ash's Pokemons
 30: Muk
 31: Pignite
 32: Agnite
+33: new one
 
