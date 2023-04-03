@@ -1,0 +1,25 @@
+Ash's Pokemons
+
+1: Pikachu
+2: Charizard
+3: Snorlax
+4: Squirtle
+5: Heracross
+6: Glalie
+7: Staraptor
+8: Butterfree
+9: Scraggy
+10: Buizel
+11: NOctowl
+12: Gibble
+13: Hawlucha
+14: Sirfetch'd
+15: Goodra
+8: Byleef
+9: Buizel
+10: Rotom
+11: Infernape
+12: Mr.Mime
+13: Kingler
+14: Muk
+15: Pignite
